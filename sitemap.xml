@@ -4,7 +4,7 @@
 
    <url>
 
-      <loc>https://mhenni417.github.io/Mhenni/index.html</loc>
+      <loc>https://nidhalammar.github.io/portfolio/index.html</loc>
 
       <lastmod>2020-01-01</lastmod>
 
@@ -15,7 +15,7 @@
    </url>
    <url>
 
-      <loc>https://mhenni417.github.io/Mhenni/ExperiencePro.html</loc>
+      <loc>https://nidhalammar.github.io/portfolio/about.html</loc>
 
       <lastmod>2020-01-01</lastmod>
 
@@ -26,7 +26,7 @@
    </url>
    <url>
 
-      <loc>https://mhenni417.github.io/Mhenni/Services.html</loc>
+      <loc>https://nidhalammar.github.io/portfolio/work.html</loc>
 
       <lastmod>2020-01-01</lastmod>
 
@@ -37,7 +37,7 @@
    </url>
    <url>
 
-      <loc>https://mhenni417.github.io/Mhenni/Services.html</loc>
+      <loc>https://nidhalammar.github.io/portfolio/contact.html</loc>
 
       <lastmod>2020-01-01</lastmod>
 
@@ -46,17 +46,7 @@
       <priority>0.7</priority>
 
    </url>
-   <url>
-
-      <loc>https://mhenni417.github.io/Mhenni/Projet.html</loc>
-
-      <lastmod>2020-01-01</lastmod>
-
-      <changefreq>monthly</changefreq>
-
-      <priority>0.6</priority>
-
-   </url>
+  
   
 
 </urlset> 

@@ -2,4 +2,4 @@ User-agent: * /* déclaration des moteurs de recherche*/
 Disallow :  /* déclaration des pages non accessible */
 Allow: / /* déclaration des pages non accessible */
 
-sitemap : https://mhenni417.github.io/Mhenni/sitemap.xml
+sitemap : https://nidhalammar.github.io/portfolio/sitemap.xml
